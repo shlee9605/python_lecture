@@ -1,4 +1,4 @@
-# python_lecture
+# secrets.json
 
 {  
     "MONGO_DB_NAME": "fastapi-pj",  
